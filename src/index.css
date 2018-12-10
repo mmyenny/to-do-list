@@ -64,12 +64,6 @@ ul.one-list li {
   margin: 0.2em;
 }
 
-ul.one-list li,
-form {
-  align-items: flex-start;
-  display: flex;
-}
-
 .completed {
   text-decoration: line-through;
   opacity: 0.5;
