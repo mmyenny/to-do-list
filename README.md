@@ -1,4 +1,5 @@
 ![to do list](https://user-images.githubusercontent.com/44332994/49714079-8d4fcf80-fc19-11e8-8155-22071561b49d.gif) <br/>
+<br/>
 
 ## Summary <br/>
 
@@ -17,5 +18,5 @@ Fetching data from API with axios and navigating through response data:<br/>
 
 HTML<br/>
 CSS<br/>
-javascript<br/>
+Javascript<br/>
 REACT<br/>
