@@ -12,31 +12,22 @@ class App extends Component {
           id: 1,
           text: 'Learn HTML & CSS',
           complete: true
-        },
-        {
-          id: 2,
-          text: 'Master React',
-          complete: false
         }
       ]
     }
   }
+
   render() {
     return (
       <div className="App">
         <header>
-          <h1>One List</h1>
+          <h1>To Do Today:</h1>
         </header>
         <main>
           <ul className="one-list">
             {this.state.todos.map((todo, index) => {
-              return <></>
+              return <li>Watch Videos</li>
             })}
-            <li className="completed">Review at 2</li>
-            <li>Watch Videos</li>
-            <li>Eat Dinner</li>
-            <li>Code</li>
-            <li>Sleep</li>
           </ul>
           <input type="text" placeholder="Whats up?" />
         </main>

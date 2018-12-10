@@ -1,3 +1,9 @@
+Fetching data from API and navigating through response data:
+-Get
+-Post
+-Put
+-Delete
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

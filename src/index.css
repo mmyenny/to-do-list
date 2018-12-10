@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
 :root {
   font-size: 24px;
 }
@@ -55,7 +57,7 @@ ul.one-list {
 
 ul.one-list,
 input {
-  font-family: 'Neucha', cursive;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 ul.one-list li {
