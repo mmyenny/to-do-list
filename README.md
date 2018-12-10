@@ -1,4 +1,5 @@
-![to do list](https://user-images.githubusercontent.com/44332994/49714079-8d4fcf80-fc19-11e8-8155-22071561b49d.gif) <br/>
+<p align="center">
+![to do list](https://user-images.githubusercontent.com/44332994/49714079-8d4fcf80-fc19-11e8-8155-22071561b49d.gif) </p> <br/>
 <br/>
 
 ## Summary <br/>
